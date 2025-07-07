@@ -45,5 +45,9 @@ EnsDb for Ensembl:
 | No. of transcripts: 38211.
 |Protein data available.
 ```
-- 
+This should help with analysis of new data.
+
+## Antarctic krill 
+
+Padova already has a [nice database.](https://krilldb2.bio.unipd.it/)
 
