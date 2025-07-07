@@ -51,3 +51,7 @@ This should help with analysis of new data.
 
 Padova already has a [nice database.](https://krilldb2.bio.unipd.it/)
 
+## Bladder cancer discussion
+
+Maybe referencing [this paper?](https://pmc.ncbi.nlm.nih.gov/articles/PMC9162490/)
+
